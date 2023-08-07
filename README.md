@@ -2,4 +2,4 @@
 
 <i> A simulation of the dissemination of ideas </i>
 
-![Animation of dissemination](/figs/animation.gif)*Animation of Dissemination*
+![Animation of dissemination](/figs/animation.gif)
